@@ -1,0 +1,10 @@
+Tags have a beginning and an end.
+some tags close differently. may be like <img> tag.
+block tags : they take a specific width and height.
+examples are heading <h1>, <h2> ......
+	     	     <p>
+do not put a <p> tag inside a <p> tag.
+line brea tag: <br>
+
+attributes come in "name" "value"  pair.
+alt attribute means alternative text.
