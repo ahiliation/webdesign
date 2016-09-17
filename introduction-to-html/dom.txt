@@ -1,0 +1,4 @@
+The Document Object Model (DOM)
+
+DOM provides common tree-like structure that all pages should follow.
+HTML is built on the DOM
